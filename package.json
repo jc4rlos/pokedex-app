@@ -14,6 +14,7 @@
     "test:coverage": "vitest --coverage --watch=false"
   },
   "dependencies": {
+    "class-variance-authority": "^0.7.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
@@ -30,6 +31,7 @@
     "@storybook/react": "^8.4.2",
     "@storybook/react-vite": "^8.4.2",
     "@storybook/test": "^8.4.2",
+    "@storybook/testing-library": "^0.2.2",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.0.1",
