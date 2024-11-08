@@ -1,0 +1,7 @@
+{
+  "elevation": {
+    "drop-2dp": "0 2px 4px rgba(0, 0, 0, 0.1)",
+    "drop-6dp": "0 6px 12px rgba(0, 0, 0, 0.1)",
+    "inner-2dp": "inset 0 2px 4px rgba(0, 0, 0, 0.1)"
+  }
+}
